@@ -1,0 +1,8 @@
+file __init__.py di eksekusi ketika memanggil package
+
+Simple nya init ini berfungsi untuk menyatukan pacakge dan module
+Jadi setiap package itu bisa menggunakan init untuk menyatukan module module nya
+
+supaya ketika di gunakan dalam program utama tidak error dan kita 
+cuman manggil lgsg package dan fungsi nya langsung
+
